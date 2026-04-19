@@ -1,9 +1,8 @@
-#incloud <iostream>
-
+#include <iostream>
 using namespace std;
 
 int main(){
-
-    cout << "Hola Mundo"
-    return;
+    cout << endl <<"Hola Mundo" << endl << endl;
+    cout << "Esto es un nuevo inicio" << endl << endl;
+    return 0;
 }
